@@ -322,11 +322,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 33 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
 
-1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren, te gijzelen, te beledigen of niet mee te werken met de roleplay van een ambulancier.
-2. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-3. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie.
-5. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren, te beledigen of niet mee te werken met de roleplay van een ambulancier.
+2. Het is toegestaan om een ambulancier te gijzelen voor 1 uur enkel als er een goede RP aan vast zit en deze ongedeerd vrij gelaten kan worden.
+3. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
+4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
+5. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie.
+6. Indien de regel beschreven in lid 2 en 3 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
