@@ -286,6 +286,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 8. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+9. Het is in geen enkele manier toegestaan om iemand te doden na een oplicht actie. Denk hierbij aan scam van mes of geweer.
+10. Bij een overtredig van de wet in lid 9 zal de persoon gestraft worden volgens de 1e categorie.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
